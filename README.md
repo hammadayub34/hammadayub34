@@ -377,7 +377,7 @@
 <br/>
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=hammadayub34&show_icons=true&hide_border=true&bg_color=00000000&title_color=C9A96E&icon_color=8B0000&text_color=8B949E&ring_color=8B0000" alt="Stats"/>
+  <img height="200" src="https://github-readme-stats.hackclub.dev/api?username=hammadayub34&show_icons=true&hide_border=true&bg_color=00000000&title_color=C9A96E&icon_color=8B0000&text_color=8B949E&ring_color=8B0000" alt="Stats"/>
   &nbsp;&nbsp;
   <img height="200" src="https://streak-stats.demolab.com/?user=hammadayub34&hide_border=true&background=00000000&stroke=161B22&ring=8B0000&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=C9A96E&currStreakNum=8B949E&sideNums=8B949E&dates=3D0000&border_radius=16" alt="Streak"/>
 </div>
@@ -385,7 +385,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadayub34&layout=compact&hide_border=true&bg_color=00000000&title_color=C9A96E&text_color=8B949E&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=hammadayub34&layout=compact&hide_border=true&bg_color=00000000&title_color=C9A96E&text_color=8B949E&langs_count=8" alt="Top Languages" height="170"/>
 </div>
 
 <br/>
